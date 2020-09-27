@@ -1,0 +1,9 @@
+email: wocey20700@finxmail.net
+password and user: Aegon2k20
+site: https://www.themoviedb.org
+
+API KEY : d8a7d5a735c495451a9b1d729a4ce1d8
+
+EXAMPLE https://api.themoviedb.org/3/movie/550?api_key=d8a7d5a735c495451a9b1d729a4ce1d8
+
+READ ACCESS eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkOGE3ZDVhNzM1YzQ5NTQ1MWE5YjFkNzI5YTRjZTFkOCIsInN1YiI6IjVmNzA4NzgzZDU1ZTRkMDAzNDczZTA2YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pHpXVeXo4iRrH7myH09UHP2H5Y9g3Tjt_j1b7K3Zbt0
