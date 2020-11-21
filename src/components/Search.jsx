@@ -13,7 +13,7 @@ function SearchMovies() {
         e.preventDefault()
         console.log("Searching...")
 
-        const url = `https://api.themoviedb.org/3/search/movie?api_key=d8a7d5a735c495451a9b1d729a4ce1d8&language=en-US&query=${query}&page=1&include_adult=false`;
+        const url = `https://api.themoviedb.org/3/search/movie?api_key=d8a7d5a735c495451a9b1d729a4ce1**&language=en-US&query=${query}&page=1&include_adult=false`;
 
         try {
             const res = await fetch(url)
