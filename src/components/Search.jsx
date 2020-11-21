@@ -46,3 +46,18 @@ function SearchMovies() {
 }
 
 export default SearchMovies
+
+
+/*
+
+email: wocey20700@finxmail.n**
+password and user: ***on2k20
+site: https://www.themoviedb.org
+
+API KEY : d8a7d5a735c495451a9b1d729a4ce1**
+
+EXAMPLE https://api.themoviedb.org/3/movie/550?api_key=d8a7d5a735c495451a9b1d729a4ce1**
+
+READ ACCESS eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkOGE3ZDVhNzM1YzQ5NTQ1MWE5YjFkNzI5YTRjZTFkOCIsInN1YiI6IjVmNzA4NzgzZDU1ZTRkMDAzNDczZTA2YyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.pHpXVeXo4iRrH7myH09UHP2H5Y9g3Tjt_j1b7K3Zbt0
+
+*/
